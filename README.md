@@ -3,7 +3,18 @@
   # 　　　　　　　고냥 알고리즘 스터디 레포
 </header><br>
 
-> 1주동안 알고리즘 기초 공부 후에 한 주에 5일씩 
+### 백준 다이아를 위한 고딩들의 스터디
+<br>
+
+* 참고 사이트 : [Solved.AC](https://solved.ac/), [프로그래머스](https://programmers.co.kr/)
+* 언어 : 코드 리뷰 시간 매주 화요일 오후 8시
+* 언어 : 파이썬
+<br>
+
+## 스터디 규칙
+
+
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qetqet910)](https://solved.ac/qetqet910/)
 
