@@ -56,8 +56,10 @@
   Baekjoon/qetqet910/고유번호.py <br>
   Baekjoon/이름/고유번호.py
 
+<br>
 
-### ⭐ 티어 ⭐ 
+## ⭐ 티어 ⭐ 
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qetqet910)](https://solved.ac/qetqet910/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wns4126)](https://solved.ac/wns4126/)
@@ -66,7 +68,8 @@
 
 <br>
 
-### ⭐ 진행판 ⭐ 
+## ⭐ 진행판 ⭐
+
 
 | 진행도 | 현민 | 택준 | 인성 | 찬범 | 
 | :--------: | :--------: | :--------: | :--------: | :--------: | 
