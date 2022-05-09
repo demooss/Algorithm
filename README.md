@@ -55,9 +55,9 @@
   Programmers/qetqet910/고유번호.py <br>
   Programmers/이름/고유번호.py
 
-#### 백준
-  Baekjoon/qetqet910/고유번호.py <br>
-  Baekjoon/이름/고유번호.py
+#### Solved
+  Solved/qetqet910/고유번호.py <br>
+  Solved/이름/고유번호.py
 
 <br>
 
